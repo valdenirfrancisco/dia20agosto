@@ -1,0 +1,98 @@
+header {
+    background: rgb(133, 245, 133);
+    color: red;
+    padding-left: 30px;
+    padding-bottom: 40px;
+}
+
+.seção1 {
+    background: rgb(234, 209, 209);
+    display: flex;
+    padding-right: 0px;
+    padding-left: 10px;
+}
+.texto1_seção1 {
+    padding-right: 20px;
+    padding-left:  20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+.tomo1{
+    background: rgba(174, 234, 154, 0.247);
+    border: solid red 1px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20 px;
+}
+.tomo2{
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 80px;
+color:red;
+background: white;
+
+}
+
+.vídeo1 {
+    padding-right: 0px;
+    padding-left: 148px;
+}
+
+
+
+.seção2 {
+    background: rgb(91, 189, 189);
+    display: flex;
+    padding-right: 0px;
+    padding-left: 0px;
+    
+}
+.texto1_seção2{
+    padding-right: 19px;
+    padding-left: 10px:
+}
+.vídeo2 {
+    padding-right: 0px;
+    padding-left: 10px;
+}
+
+.seção3{
+    padding-top: 0px;
+     padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom:  0px;
+    background: rgba(200, 108, 108, 0.779);
+    display: flex;
+}
+  
+.seção3 h1 {
+ color: red;
+}
+
+
+
+ body {
+    background: rgb(67, 199, 179, 0.715);
+margin-top: 50px;
+margin-bottom: 50px;
+ 
+    
+.tira-vídeos {
+    display: flex;
+    gap: 20 px;
+    overflow-x: auto ;
+   
+}
+
+.tira-vídeos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+ .tira-vídeos img:hover {
+        opacity: 1.0;
+        border: 5px solid  green;
+        
+    }
